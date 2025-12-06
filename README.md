@@ -102,9 +102,10 @@
 
 | 프로젝트 | 분야 | 사용 기술 | 진행 현황 |
 |----------|--------|-----------|-----|
+| **ZzicGo: “찍고 가자!” — 오늘 하루의 인증 한 컷.** | 웹 개발 (개인 프로젝트) | Spring Boot, React, MySQL, AWS | [진행중](https://zzicgo.com/) |
 | **Vitacheck: 똑똑하게 영양 체크** | 웹 개발 | Spring Boot, MySQL, Redis, AWS | [진행중](https://vitachecking.com/) |
-| **DE-Fake It: Explainable DeepFake Detection with AI & LLMs** | AI | Python, Django, Ollama(LLM) | 완료 |
-| **도로명 주소 기반 택배 배송 경로 탐색 및 화물 적재 보조 앱** | 앱 개발 | Django, 지도 API, Flutter | 완료 |
+| **DE-Fake It: Explainable DeepFake Detection with AI & LLMs** | AI | Python, Django, Ollama(LLM) | [완료](https://github.com/ParkJiYeoung8297/HUFS.CSE.DE-fake-it) |
+| **도로명 주소 기반 택배 배송 경로 탐색 및 화물 적재 보조 앱** | 앱 개발 | Django, 지도 API, Flutter | [완료](https://github.com/ParkJiYeoung8297/HUFS.IME.Tectrics) |
 
 ##
 
