@@ -4,6 +4,8 @@
 
 ## 안녕하세요 백엔드 개발자 박지영입니다.
 
+
+
 ## 📂 Profile
 
 <div align="center">
@@ -17,6 +19,8 @@
   <ul>
     <li>한국외국어대학교<br/>
     <b>컴퓨터공학과 / 산업경영공학과</b> (복수 전공)</li>
+    <br>
+    <li><b>우아한 테크 코스 8기 (현재 진행중) </b> </li>
   </ul>
 </div>
 
@@ -28,7 +32,7 @@
   <ul>
     <li>🖥 정보처리기사</li>
     <li>🗄 SQLD (SQL 개발자)</li>
-    <li>🗣 OPIC 영어 IM3</li>
+    <li>🗣 OPIC 영어 IH</li>
     <li>📊 데이터분석준전문가(ADSP)</li>
     <li>💻 컴퓨터활용능력 2급</li>
   </ul>
@@ -58,6 +62,7 @@
 <h3>🌏 Activities</h3>
 <div align="left">
   <ul>
+    <li>🎵 스타트업 BEATBUDDY – Backend </li>
     <li>👩‍💻 대학생개발연합동아리 UMC – Backend(Spring Boot)</li>
     <li>🏢 동희 체코 공장 – 해외부품개발 2팀 인턴</li>
     <li>📚 산업경영공학과 학회 BIGIN – 임원진</li>
@@ -100,12 +105,14 @@
 
 ## 📌 대표 프로젝트
 
-| 프로젝트 | 분야 | 사용 기술 | 진행 현황 |
-|----------|--------|-----------|-----|
-| **ZzicGo: “찍고 가자!” — 오늘 하루의 인증 한 컷.** | 웹 개발 (개인 프로젝트) | Spring Boot, React, MySQL, AWS | [진행중](https://zzicgo.com/) |
-| **Vitacheck: 똑똑하게 영양 체크** | 웹 개발 | Spring Boot, MySQL, Redis, AWS | [진행중](https://vitachecking.com/) |
-| **DE-Fake It: Explainable DeepFake Detection with AI & LLMs** | AI | Python, Django, Ollama(LLM) | [완료](https://github.com/ParkJiYeoung8297/HUFS.CSE.DE-fake-it) |
-| **도로명 주소 기반 택배 배송 경로 탐색 및 화물 적재 보조 앱** | 앱 개발 | Django, 지도 API, Flutter | [완료](https://github.com/ParkJiYeoung8297/HUFS.IME.Tectrics) |
+| 프로젝트 | 분야 | 사용 기술 |  관련 링크  | 진행 현황 |
+|----------|--------|-----------|--------|------|
+| **RealMatch: “브랜드·인플루언서 매칭 & 협업 플랫폼"** | 웹 개발  | Spring Boot, MySQL, AWS | [깃허브](https://github.com/RealMatchTeam/BE) |완료| 
+| **BeatBuddy: “음악 안에서 만나는 모든 좋은 순간"** | 웹 개발  | Spring Boot, MySQL, AWS | [웹 서비스](https://www.beatbuddy.world/) |완료| 
+| **ZzicGo: “찍고 가자!” — 오늘 하루의 인증 한 컷.** | 웹 개발<br>(개인 프로젝트) | Spring Boot, React, MySQL, AWS |[깃허브](https://github.com/ParkJiYeoung8297/ZzicGo)<br> [웹 서비스](https://zzicgo.com/) |진행중|
+| **Vitacheck: 똑똑하게 영양 체크** | 웹 개발 | Spring Boot, MySQL, Redis, AWS | [깃허브](https://github.com/VitaCheck/vitacheck-be) |완료|
+| **DE-Fake It: Explainable DeepFake Detection <br>with AI & LLMs** | AI | Python, Django, Ollama(LLM) | [깃허브](https://github.com/ParkJiYeoung8297/HUFS.CSE.DE-fake-it) |완료|
+| **도로명 주소 기반 택배 배송 경로 탐색 및 화물 적재 보조 앱** | 앱 개발 | Django, 지도 API, Flutter | [깃허브](https://github.com/ParkJiYeoung8297/HUFS.IME.Tectrics) |완료|
 
 ##
 
