@@ -25,7 +25,7 @@
 </div>
 
 </td>
-<td width="45%" valign="top">
+<td width="4%" valign="top">
 
 <h3>📜 Certifications</h3>
 <div align="left">
@@ -44,9 +44,26 @@
 <tr>
 <td width="45%" valign="top">
 
-<h3>🏆 Awards</h3>
+<h3>🏆 Awards & Publications</h3>
 <div align="left">
   <ul>
+<li>
+  <b>
+    SCIE 등재 국제학술지 제1저자 논문 게재
+    <a href="https://github.com/ParkJiYeoung8297/HUFS.CSE.DE-fake-it">
+      <img src="https://cdn.simpleicons.org/github/24292F"
+           width="18"
+           alt="GitHub"
+           align="absmiddle"/>
+    </a>
+  </b><br/>
+  <i>
+    <a href="https://doi.org/10.32604/cmc.2026.081091">
+      Seeing through Deepfakes: An Explainable Multi-Task Detection Framework with Deep Learning and Large Language Models
+    </a>
+  </i><br/>
+  <span>Computers, Materials &amp; Continua (CMC), 2026</span>
+</li>
     <li><b>컴퓨터공학부 캡스톤 발표회 – 우수상</b><br/>
     <i>Develop a robust DeepFake detection technique using deep learning</i></li>
     <li><b>대한산업공학회 한국대학생 산업공학프로젝트 경진대회 – 은상</b><br/>
@@ -57,7 +74,7 @@
 </div>
 
 </td>
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 <h3>🌏 Activities</h3>
 <div align="left">
