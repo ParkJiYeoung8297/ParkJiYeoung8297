@@ -95,54 +95,6 @@
 
 
 
-<h3>📝 대표 글</h3>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://velog.io/@wldud8297/UMC-멀티모듈-설계로-리팩토링-모듈-테스트">
-        <strong>도메인 결합도를 줄이는 멀티모듈 리팩토링</strong>
-      </a>
-      <p>도메인별 책임과 모듈 간 의존성을 고민하며 구조를 개선한 과정</p>
-      <sub>velog.io · Vitacheck</sub>
-    </td>
-    <td width="200">
-      <a href="https://velog.io/@wldud8297/UMC-멀티모듈-설계로-리팩토링-모듈-테스트">
-        <img src="https://velog.velcdn.com/images/wldud8297/post/e93c0139-21f8-4209-900a-b0cd11a5e8f2/image.png" width="200" alt="Vitacheck" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://velog.io/@wldud8297/Ringout-안드로이드와-통신하여-소셜-로그인-구현하기">
-        <strong>안드로이드와 통신하여 소셜 로그인 구현하기</strong>
-      </a>
-      <p>소셜 제공자별 구현을 분리하고 로그인·회원가입 흐름을 설계한 과정</p>
-      <sub>velog.io · Ringout</sub>
-    </td>
-    <td width="200">
-      <a href="https://velog.io/@wldud8297/Ringout-안드로이드와-통신하여-소셜-로그인-구현하기">
-        <img src="https://velog.velcdn.com/images/wldud8297/post/860363da-25e1-460c-abe6-5c55db927c13/image.png" width="200" alt="Ringout" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://velog.io/@wldud8297/Capstone-논문-투고-까지의-과정">
-        <strong>설명 가능한 딥페이크 탐지 연구의 SCIE 논문 게재기</strong>
-      </a>
-      <p>모델의 판단 근거를 설명하는 방법을 연구하고 논문 게재까지 발전시킨 과정</p>
-      <sub>velog.io · Capstone</sub>
-    </td>
-    <td width="200">
-      <a href="https://velog.io/@wldud8297/Capstone-논문-투고-까지의-과정">
-        <img src="https://velog.velcdn.com/images/wldud8297/post/05c757d3-9567-40eb-8cb3-92a1279c04cf/image.png" width="200" alt="딥페이크 탐지 연구" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 ##
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -193,6 +145,54 @@
 | 기상 데이터 기반 항공기 연착 및 지연 예측 서비스 | 딥러닝 | Python, 지도 학습/비지도 학습 모델 | 완료 |
 | 등교 셔틀 교통 분석 및 대안 제시 | 데이터 분석 | Python, 도로 교통 API | 완료 |
 
+
+
+<h3>📝 블로그 </h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://velog.io/@wldud8297/UMC-멀티모듈-설계로-리팩토링-모듈-테스트">
+        <strong>도메인 결합도를 줄이는 멀티모듈 리팩토링</strong>
+      </a>
+      <p>도메인별 책임과 모듈 간 의존성을 고민하며 구조를 개선한 과정</p>
+      <sub>velog.io · Vitacheck</sub>
+    </td>
+    <td width="200">
+      <a href="https://velog.io/@wldud8297/UMC-멀티모듈-설계로-리팩토링-모듈-테스트">
+        <img src="https://velog.velcdn.com/images/wldud8297/post/e93c0139-21f8-4209-900a-b0cd11a5e8f2/image.png" width="200" alt="Vitacheck" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://velog.io/@wldud8297/Ringout-안드로이드와-통신하여-소셜-로그인-구현하기">
+        <strong>안드로이드와 통신하여 소셜 로그인 구현하기</strong>
+      </a>
+      <p>소셜 제공자별 구현을 분리하고 로그인·회원가입 흐름을 설계한 과정</p>
+      <sub>velog.io · Ringout</sub>
+    </td>
+    <td width="200">
+      <a href="https://velog.io/@wldud8297/Ringout-안드로이드와-통신하여-소셜-로그인-구현하기">
+        <img src="https://velog.velcdn.com/images/wldud8297/post/860363da-25e1-460c-abe6-5c55db927c13/image.png" width="200" alt="Ringout" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://velog.io/@wldud8297/Capstone-논문-투고-까지의-과정">
+        <strong>설명 가능한 딥페이크 탐지 연구의 SCIE 논문 게재기</strong>
+      </a>
+      <p>모델의 판단 근거를 설명하는 방법을 연구하고 논문 게재까지 발전시킨 과정</p>
+      <sub>velog.io · Capstone</sub>
+    </td>
+    <td width="200">
+      <a href="https://velog.io/@wldud8297/Capstone-논문-투고-까지의-과정">
+        <img src="https://velog.velcdn.com/images/wldud8297/post/05c757d3-9567-40eb-8cb3-92a1279c04cf/image.png" width="200" alt="딥페이크 탐지 연구" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
